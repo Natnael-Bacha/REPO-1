@@ -1,2 +1,2 @@
 #Git-hub 
-Git-hub trial_first reposiitory
+Git-hub trial_first reposiitory!
